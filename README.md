@@ -1,4 +1,4 @@
-# workshop1
+# WORKSHOP1 CYBERCAFE MANAGEMENT SYSTEM
 ![alt text](Picture10.jpg)
 menu selection
 ![alt text](Picture2.jpg)
