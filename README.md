@@ -13,5 +13,5 @@ membership topup
 monthly profit graph
 ![alt text](Picture7.jpg)
 yearly profit graph
-![caption](https://youtu.be/ywdCPdPMZJ4)
+![caption](https://youtu.be/ywdCPdPMZJ4 / GIF)
 demonstration video
